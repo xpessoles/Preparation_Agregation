@@ -1,0 +1,26 @@
+TP transversal
+ * Objectif : Réaliser un sujet de TP de STI2D Spécialité SII.
+ > On donne 
+    * La progression annuelle
+    * La description de la séquence 
+    * La description de la séance
+    * Le système avec documentation constructeur 
+    * Toutes ressources
+
+> Ecrire un texte de TP et un corrigé qui s'inscrit dans la séance. 
+
+
+TP de spécialité 
+ * Objectif : Réaliser un TP. Niveau CPGE/BTS/IUT
+      * Valider les compétences scientifiques
+      * Valider les compétence expérimentales
+      * Valider les compétence de modélisation
+
+
+
+
+Epreuve de dossier
+ * Objectif présenter un système disponible dans un laboratoire (Collège, lycée, IUT) (Prévoir éventuellement des gardes fou)
+ * Réaliser une progression pédagogique
+ * Réaliser la présentation d'une séquence
+ * Réaliser la présentation d'un sujet de TP et d'un corrigé. 
